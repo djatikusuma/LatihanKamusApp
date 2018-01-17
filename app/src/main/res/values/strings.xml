@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kamus Ku</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="english_indonesia">English - Indonesia</string>
+    <string name="indonesia_english">Indonesia - English</string>
+    <string name="search_hint">Terjemahkan Kata</string>
+    <string name="word_text">Word Text</string>
+    <string name="description">Kamus Ku Aplikasi</string>
+    <string name="translate_title">Terjemahan</string>
+    <string name="isFirstRun">Mohon menunggu, aplikasi sedang melakukan load data.</string>
+</resources>
